@@ -1,0 +1,13 @@
+.Movie-card{
+    height: 250px;
+    width:150px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 1px grey;
+}
+
+img{
+    width:350%;
+    width:85%;
+    height: 200px;
+}
